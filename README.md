@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Slay to the rhythm of metal and vengeance on an infernal journey through the eight Hells. Make them fear the beat. Metal: Hellsinger is a rhythm FPS bursting with demons, badass weapons, and heavy metal music.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 | macOS 11.0 or later |
+| **Processor** | Min: Intel® Core™ i5-3450 / AMD equivalent / Rec: Intel® Core™ i7-6700K / AMD Ryzen™ 5 1500X | Intel Core i5 / Apple M1 |
+| **Memory** | 8 GB RAM | 8 GB RAM |
+| **Graphics** | Min: NVIDIA® GeForce® GTX 1050 / AMD Radeon™ RX 550 / Rec: NVIDIA® GeForce® GTX 1060 / AMD Radeon™ RX 5700 | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | Min: 12 GB available space / Rec: 15 GB available space | 12 GB available space |
+| **Additional Notes** | Min: 30 FPS in 1080p / Rec: 60 FPS in 1080p | 30 FPS in 1080p |
 
 ---
 
